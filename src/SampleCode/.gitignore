@@ -1,0 +1,14 @@
+.pio/
+.vscode/
+*.crf
+*.dep
+*.obj
+*.map
+*.htm
+*.hex
+*.bin
+*.bak
+*.txt
+*.lst
+*.uvgu*
+*.scvd
