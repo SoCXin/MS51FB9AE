@@ -1,0 +1,17 @@
+.pio/
+.vscode/
+*/Output/
+*.crf
+*.dep
+*.obj
+*.map
+*.htm
+*.hex
+*.bin
+*.bak
+*.txt
+*.lst
+*.m51
+*.lnp
+*.uvgu*
+*.scvd
