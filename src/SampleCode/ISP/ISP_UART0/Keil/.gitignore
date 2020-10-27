@@ -1,6 +1,6 @@
 .pio/
 .vscode/
-Output/
+*/Output/
 *.crf
 *.dep
 *.obj
@@ -13,6 +13,5 @@ Output/
 *.lst
 *.m51
 *.lnp
-*.uvopt
 *.uvgu*
 *.scvd
